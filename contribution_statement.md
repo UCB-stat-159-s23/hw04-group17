@@ -9,9 +9,9 @@ Didi Duan: Finished all tasks in this part.
 ### Add tests to readligo.py
 
 ### Create utils.py
-
+Andy Zuo - completed all tasks in this part follow the direction
 ### Make new plotting utility in utils.py
-
+Andy Zuo - completed all tasks in this part follow the direction
 ### Add tests to utils.py
 
 ### JupyterBook
