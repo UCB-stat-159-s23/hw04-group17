@@ -9,7 +9,6 @@ strain_H1, time_H1, chan_dict_H1 = rl.loaddata(file_L1)
 strain_L1, time_L1, chan_dict_L1 = rl.loaddata(file_H1)
 strain, gpsStart, ts, qmask, shortnameList, injmask, injnameList = rl.read_hdf5("data/H-H1_LOSC_4_V2-1126259446-32.hdf5")
 
-
 def test_loaddata_L1():
 	assert isinstance(strain_L1, np.ndarray)
 	assert isinstance(time_L1, np.ndarray)
