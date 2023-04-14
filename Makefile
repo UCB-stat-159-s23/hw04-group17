@@ -6,7 +6,7 @@ create_environment :
 	conda env create -f environment.yml 
 	conda activate notebook
 	conda install ipykernel
-	python -m ipykernel install --user --name make-env --display-name "IPython - Make"
+	python -m ipykernel install --user --name make-env --display-name "IPython - ligo"
 
 .PHONY: html
 html:
@@ -24,8 +24,7 @@ html-hub: conf.py
 conf.py: _config.yml _toc.yml
 	jupyter-book config sphinx .
 
-
 .PHONY: clean
 clean:
-    rm -rf figures
-    rm -rf audio
+    rm -rf figures/*
+    rm -rf audio/*
