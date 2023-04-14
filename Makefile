@@ -6,7 +6,7 @@ create_environment :
 	conda env create -f environment.yml 
 	conda activate notebook
 	conda install ipykernel
-	python -m ipykernel install --user --name make-env --display-name "IPython - ligo"
+	python -m ipykernel install --user --name ligo --display-name "IPython - ligo"
 
 .PHONY: html
 html:
