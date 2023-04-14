@@ -4,7 +4,7 @@ Helen Tan: I successfully ran the notebook by redownloading all packages, moving
 Didi Duan: Create data, audio,figures directory. Move all data file to data directory.
 
 ### Installable package
-Didi Duan: Finished all tasks in this part.
+Didi Duan: completed all tasks in this part.
 
 ### Add tests to readligo.py
 
@@ -20,11 +20,12 @@ Lia Yang & Helen Tan: fixed all the errors and mistakes on this task by modifyin
 Lia Yang & Helen Tan: finished adding four separate small tests to the functions in utils.py. The command pytest ligotools successfully ran all those tests.
 
 ### JupyterBook
-Didi Duan: Finished all tasks in this part.
+Didi Duan: completed all tasks in this part.
 
 ### GitHub Pages and Actions
+Didi Duan: completed all tasks in this part.
 
 ### Makefile
 
 ###  GitHub repository
-Didi Duan: Create the binder link and add to README file; Add basic description to the README file. 
+Didi Duan: Created the binder link and add to README file; Add basic description to the README file. 
