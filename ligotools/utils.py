@@ -143,7 +143,7 @@ def plot_all(eventname, det, plottype, time, timemax, tevent, SNR, strain_whiten
     plt.savefig(eventname+"_"+det+"_matchfreq."+plottype)
 
     
-    # plot function
+# plot function
 def make_plot(det,strain_H1_whitenbp,strain_L1_whitenbp,template_match,time,timemax,SNR,eventname,plottype,tevent,template_fft,datafreq,d_eff,freqs,data_psd,fs):
 
     # plotting changes for the detectors:
