@@ -10,9 +10,14 @@ Didi Duan: Finished all tasks in this part.
 
 ### Create utils.py
 Andy Zuo - completed all tasks in this part follow the direction
+Lia Yang & Helen Tan: fixed all the errors and mistakes on this task by rerun the notebook and modify the utils.py
+
 ### Make new plotting utility in utils.py
-Andy Zuo - completed all tasks in this part follow the direction
+Andy Zuo - completed all tasks in this part follow the direction 
+Lia Yang & Helen Tan: fixed all the errors and mistakes on this task by modifying the utils.py file
+
 ### Add tests to utils.py
+Lia Yang & Helen Tan: finished adding four separate small tests to the functions in utils.py. The command pytest ligotools successfully ran all those tests.
 
 ### JupyterBook
 Didi Duan: Finished all tasks in this part.
