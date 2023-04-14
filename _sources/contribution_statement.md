@@ -7,13 +7,16 @@ Didi Duan: Create data, audio,figures directory. Move all data file to data dire
 Didi Duan: completed all tasks in this part.
 
 ### Add tests to readligo.py
+Lia Yang: completed all tasks in this part.
 
 ### Create utils.py
 Andy Zuo - completed all tasks in this part follow the direction
+
 Lia Yang & Helen Tan: fixed all the errors and mistakes on this task by rerun the notebook and modify the utils.py
 
 ### Make new plotting utility in utils.py
 Andy Zuo - completed all tasks in this part follow the direction 
+
 Lia Yang & Helen Tan: fixed all the errors and mistakes on this task by modifying the utils.py file
 
 ### Add tests to utils.py
@@ -26,6 +29,7 @@ Didi Duan: completed all tasks in this part.
 Didi Duan: completed all tasks in this part.
 
 ### Makefile
+Helen Tan: completed all tasks in this part.
 
 ###  GitHub repository
 Didi Duan: Created the binder link and add to README file; Add basic description to the README file. 
